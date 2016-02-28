@@ -1,0 +1,28 @@
+_repo: The-Eskdale-Herd-boy-A-Scottish-Tale-for-the-Instruction-and-Amusement-of-Young-People_7963
+creator:
+  author:
+    agent_name: Blackford, Mrs. (Martha)
+    aliases:
+    - Blackford, Martha
+    - Stoddart, Isabella, Lady
+    deathdate: 1846
+    gutenberg_agent_id: '2597'
+    url: http://www.gutenberg.org/2009/agents/2597
+description: ''
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shepherds -- Scotland -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Scotland -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: 'The Eskdale Herd-boy
+
+  A Scottish Tale for the Instruction and Amusement of Young People'
+url: http://www.gutenberg.org/ebooks/7963
